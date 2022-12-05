@@ -3,9 +3,11 @@
 <h1 align = 'center' style = 'font-weight : bold' ><span style = 'color :#7a54a1 ;'>Artificial</span> <span style = 'color : #b95991'>Intelligence</span> <span style = 'color : #ffa730'>Boot</span><span style = 'color : #ffa730' >camp</span></h1>
 
 <hr>
+<p align = 'center'>
 <img src = 'https://i.imgur.com/WNlqFH4.png' style = '  width : 75% ; display: block;
 margin-left: auto;
 margin-right: auto;'>
+</p>
 
 * Programing Track
     - 
