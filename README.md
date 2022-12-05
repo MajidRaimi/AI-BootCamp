@@ -4,7 +4,7 @@
 
 <hr>
 <p align = 'center'>
-<img src = 'https://i.imgur.com/WNlqFH4.png' style = '  width : 75% ; display: block;
+<img src = 'https://i.imgur.com/O2yumIa.png' style = '  width : 75% ; display: block;
 margin-left: auto;
 margin-right: auto;'>
 </p>
