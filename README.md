@@ -14,4 +14,5 @@ margin-right: auto;'>
     - First Day 
         - <a href = 'https://github.com/MajidRaimi/AI-BootCamp/tree/master/Programing%20Track/Day_01/Intro%20To%20Python'>Intro To Python </a>
         - <a href = 'https://github.com/MajidRaimi/AI-BootCamp/tree/master/Programing%20Track/Day_01/Git%20-%20Github'>Git / GitHub </a>
-    
+    - Second Day
+      - <a href='https://github.com/MajidRaimi/AI-BootCamp/tree/master/Programing%20Track/Day_02/OOP%20For%20Python'>OOP For Python</a>
