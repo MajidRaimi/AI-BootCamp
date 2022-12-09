@@ -16,3 +16,6 @@ margin-right: auto;'>
         - <a href = 'https://github.com/MajidRaimi/AI-BootCamp/tree/master/Programing%20Track/Day_01/Git%20-%20Github'>Git / GitHub </a>
     - Second Day
       - <a href='https://github.com/MajidRaimi/AI-BootCamp/tree/master/Programing%20Track/Day_02/OOP%20For%20Python'>OOP For Python</a>
+  -  Third Day
+     -  <a href = 'https://github.com/MajidRaimi/AI-BootCamp/tree/master/Programing%20Track/Day_03/Numpy%20%26%20Pandas'>Numpy & Pandas</a>
+     -  <a href = 'https://github.com/MajidRaimi/AI-BootCamp/tree/master/Programing%20Track/Day_03/Image%20Recognition'>Image Recognition</a>
