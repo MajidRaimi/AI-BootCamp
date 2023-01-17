@@ -1,0 +1,24 @@
+- Make the size of the page Height = 900 & Widith =  1720 
+- Add Background 
+PAGE1:
+- Show the top 5 supplies in Spending 
+- Show the remaining days of the end of the month  
+- Show the spending & Remaining
+- Show Today's date 
+- Show the remianing and spending 
+- Show Bein Sport(yearly) & Netflix(monthly) if are expired or not
+- Show the information in card   (Measure)
+PAGE2: 
+- Show the employees name Re_order it in the graph as the following: 
+1. Rawan 2. Sarah 3. Rakan 4. Aseel 5. Abdulaziz 6. Ali 7. Mohammed
+
+
+
+Transform Phase: 
+- Show the remaining days of the end of the month 
+- Show Bein Sport(yearly) & Netflix(monthly) if are expired or not 
+
+Relation Phase: 
+- Show the employees name Re_order it in the graph as the following: 
+1. Rawan 2. Sarah 3. Rakan 4. Aseel 5. Abdulaziz 6. Ali 7. Mohammed
+

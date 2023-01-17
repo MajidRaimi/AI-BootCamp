@@ -1,0 +1,11 @@
+fname,lname,age_gender,section,height(cm),weight(kg),age,spend_A,spend_B,spend_C
+Mohammed,Ali,36_M,A,xx,-60,36,100,400.5,NaN
+Reem,Naif,35_F,C,170.3,75.5,35,NaN,500.02,500
+Khalid,Omar,34_M,C,155.1,56.8,34,1000,100.9,xx
+Hassan,Salem,36_M,C,154.2,60.6,36,100,200.7,300
+Noor,Ali,38_F,A,162.1,58.7,38,600,200.6,200
+Shahad,Khalid,37_F,B,175.4,85.6,37,1500,200.8,300
+Ibrahim,Ahmed,38_M,B,NaN,xx,38,NaN,1000.8,NaN
+Osama,Hassan,35_M,B,165.1,?,35,500,-100,200
+Ahmed,Naser,40_M,A,0,55.6,40,300,300.7,NaN
+Huda,Saleh,39_M,B,160.8,57.5,39,200,NaN,300
