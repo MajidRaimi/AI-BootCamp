@@ -21,3 +21,22 @@ margin-right: auto;'>
      -  <a href = 'https://github.com/MajidRaimi/AI-BootCamp/tree/master/Programing%20Track/Day_03/Image%20Recognition'>Image Recognition</a>
   - Fourth Day 
     - <a href ='https://github.com/MajidRaimi/AI-BootCamp/tree/master/Programing%20Track/Day_04/Flask'>Flask</a>
+
+* Basic Data Processing For AI
+    -
+    - <a href = 'https://github.com/MajidRaimi/AI-BootCamp/tree/master/Basic%20Programming%20For%20AI/Day_01'>First Day</a>
+    - <a href = 'https://github.com/MajidRaimi/AI-BootCamp/tree/master/Basic%20Programming%20For%20AI/Day_02'>Second Day</a>
+    - <a href = 'https://github.com/MajidRaimi/AI-BootCamp/tree/master/Basic%20Programming%20For%20AI/Day_03'>Third Day</a>
+    - <a href = 'https://github.com/MajidRaimi/AI-BootCamp/tree/master/Basic%20Programming%20For%20AI/Day_04'>Fourth Day</a>
+
+
+* Machine Learning
+    -
+    - <a href = 'https://github.com/MajidRaimi/AI-BootCamp/tree/master/Machine%20Learning'>All Resources You Need</a>
+
+* Deep Learning
+    - 
+    - <a href = 'https://github.com/MajidRaimi/AI-BootCamp/tree/master/Deep%20Learning%20%26%20Computer%20Vision/Day_01'>First Day </a>
+    - <a href = 'https://github.com/MajidRaimi/AI-BootCamp/tree/master/Deep%20Learning%20%26%20Computer%20Vision/Day_02'>Second Day </a>
+    - <a href = 'https://github.com/MajidRaimi/AI-BootCamp/tree/master/Deep%20Learning%20%26%20Computer%20Vision/Day_03'>Third Day </a>
+    
